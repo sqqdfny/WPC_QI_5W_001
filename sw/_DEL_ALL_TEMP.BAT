@@ -1,0 +1,11 @@
+del *.bak /s
+del *.obj /s
+del *.lnp /s
+del *.plg /s
+del *.iex /s
+del *.lst /s
+del *.m51 /s
+del *.__i /s
+del *.ls1 /s
+del *.SRC /s
+del *. /s
